@@ -1,5 +1,7 @@
 # Model Selection for NTF
 
+This is the implementation of paper Model Selection for Non-negative Tensor Factorization with Minimum Description Length.
+
 Before running the demo, you need to install the tensor_toolbox first.
 Install the tensor_toolbox and add it to your environment.
 
